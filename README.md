@@ -997,3 +997,120 @@ https://vips-livecdn.fptplay.net/hdevent/worldcup10_hls.smil/chunklist_b2500000.
 
 
 
+
+
+
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 1 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://bb5iqwas4fliv.vcdn.cloud/m201nd/m201nd@456.m3u8|Referer=https://live.rakhoi.live/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 2 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://bb5iqwas4fliv.vcdn.cloud/m301nd/m301nd@456.m3u8|Referer=https://live.rakhoi.live/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 3 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://bb5iqwas4fliv.vcdn.cloud/m401nd/m401nd@456.m3u8|Referer=https://live.rakhoi.live/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 4 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://bb5iqwas4fliv.vcdn.cloud/m501nd/m501nd@456.m3u8|Referer=https://live.rakhoi.live/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 5 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/chunklist.m3u8|Referer=https://live.rakhoi.live/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 6 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/chunklist.m3u8|Referer=https://live.rakhoi.live/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 7 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/chunklist.m3u8|Referer=https://live.rakhoi.live/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 8 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/chunklist.m3u8|Referer=https://live.rakhoi.live/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 9 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/chunklist.m3u8|Referer=https://live.rakhoi.live/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 10 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/chunklist.m3u8|Referer=https://live.rakhoi.live/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 11 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/chunklist.m3u8|Referer=https://live.rakhoi.live/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 12 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/chunklist.m3u8|Referer=https://live.rakhoi.live/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 13 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/chunklist.m3u8|Referer=https://saoketv.space/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 14 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/chunklist.m3u8|Referer=https://saoketv.space/
+#EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 15 ⚽ [Chọn HW]
+#EXTVLCOPT:http-user-agent="BearTV"
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/chunklist.m3u8|Referer=https://saoketv.space/
+
+
+#EXTINF:-1 group-title="FootBall EVENT" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 01
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="FootBall EVENT" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 02
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="FootBall EVENT" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 03
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="FootBall EVENT" tvg-logo="https://fptplay.vn/images/logo-2.png", F Event 04
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 01
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 02
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 03
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 04
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sport 05
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
+
+
+
+
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/S5yKm0X/jsports1-BEARTV.png" ,J SPORTS 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/hBt4pzh/jsports2-BEARTV.png" ,J SPORTS 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/MV0W2Dd/jsports3-BEARTV.png" ,J SPORTS 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/Mhc8N7X/J-Sports-4-BEARTV.png" ,J SPORTS 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://cms.spotvasia.com/upload/footer/file_99872251-4bb3-4ce9-8a98-f5bb47395f6f.png" ,SPOTV1
+http://live1.streamk.co:8080/sportsbox_preview/live53/playlist.m3u8?site=gaktv&ch=live53
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" ,SPOTV2
+http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&ch=live54
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.spotvon.co.kr/P/images/main/title_channel1.png" ,SPOTV·ON
+http://live1.streamk.co:8080/sportsbox_preview/live46/playlist.m3u8?site=gaktv&ch=live46
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://www.spotvon.co.kr/P/images/main/title_channel2.png" ,SPOTV·ON2
+http://live1.streamk.co:8080/sportsbox_preview/live47/playlist.m3u8?site=gaktv&ch=live47
+#https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/F3z1Nf0/sbssports-BEARTV.png", SBS SPORTS
+http://211.203.0.244:9981/stream/channelid/1821813903
+#EXTINF:-1 tvg-id="cctv5" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/4P7MxRX/CCTV-5-BEARTV.png",CCTV5 - Thể Thao
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="cctv5plus" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png",CCTV5+ Thể Thao
+#http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF: 0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/JrrmZdB/onegolf-HD-BEARTV.png", ONE GOLF HD
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/F768qJN/star-sports-select-hd-2-BEARTV.png" ,Star Sports Select 2 HD
+http://208.86.19.13:81/737.stream/index.m3u8
+#https://mavtv-mavtvglobal-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" group-title="KÊNH THỂ THAO", KOK UFC
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+
+
